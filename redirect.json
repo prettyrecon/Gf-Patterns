@@ -64,5 +64,6 @@
 "validate=",
 "view=",
 "window="
+"defaultUrl="
 ]
 }
